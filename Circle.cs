@@ -19,7 +19,7 @@ namespace labFiveClass
         public void GetArea()
         {
 
-            Console.WriteLine(_radius * _radius * _pi);
+            Console.WriteLine($"Arean på cirkeln är: { _radius* _radius *_pi}");
         }
     }
 }
