@@ -8,6 +8,8 @@
             
             Circle circle1 = new Circle(GetInputNumber());
             Circle circle2 = new Circle(GetInputNumber());
+            
+            
             circle1.GetArea();
             circle2.GetArea();
         }

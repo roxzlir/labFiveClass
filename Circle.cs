@@ -21,5 +21,9 @@ namespace labFiveClass
 
             Console.WriteLine($"Arean på cirkeln är: { _radius* _radius *_pi}");
         }
+        public void GetVolume(int i, int j)
+        {
+            Console.WriteLine("");
+        }
     }
 }
